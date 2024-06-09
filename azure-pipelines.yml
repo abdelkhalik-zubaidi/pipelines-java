@@ -11,7 +11,7 @@ strategy:
   matrix:
     linux:
       imageName: "ubuntu-latest"
-##    mac:
+#    mac:
 #      imageName: "macOS-latest"
 #    windows:
 #      imageName: "windows-latest"
